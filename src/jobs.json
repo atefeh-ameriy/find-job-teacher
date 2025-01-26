@@ -83,20 +83,7 @@
         "contactEmail": "something@gmail.com",
         "contactPhone": "09100000000"
       }
-    },
-    {
-      "id": "9259",
-      "title": "jjjjjjjjjjjv",
-      "type": "دورکار",
-      "location": "bv",
-      "description": "gvgvg",
-      "salary": "900,000 - 1,000,000",
-      "company": {
-        "name": "آموزشکده ماهان",
-        "description": "vbbbbb",
-        "contactEmail": "funnyemail@gmail.com",
-        "contactPhone": "09390000000"
-      }
     }
+    
   ]
 }
